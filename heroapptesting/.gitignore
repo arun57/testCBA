@@ -1,0 +1,10 @@
+!.gitignore
+
+.env
+target/
+.classpath
+.project
+.settings
+.vscode
+.log
+results
