@@ -1,6 +1,5 @@
 !.gitignore
 
-.env
 target/
 .classpath
 .project
